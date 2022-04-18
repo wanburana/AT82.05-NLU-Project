@@ -27,3 +27,10 @@ Infersent is an universal sentence encoder from Meta AI. In this experiment, we 
 All the data will be encoded by Infersent, then we pass the dataset into classification layer.  
 All the required setup is based on https://github.com/facebookresearch/InferSent.
 
+
+
+## Code directory
+Folder `Experiment 2&3` contains the following
+- `Experiment 2&3.ipynb`: IPYNB file to reproduce Experiment 2 (Except Infersent & BERT-FP Model) and Experiment 3
+- Folder `Experiment 2 Infersent&BERT-FP`: Contain the IPYNB files to reproduce Infersent & BERT-FP Model in Experiment 2 
+- Folder `Experiment 3 Visualiztion`: Contain csv result from `Experiment 2&3.ipynb` (Experiment 3, particularly) and IPYNB to reproduce the plot in the presentation
