@@ -12,16 +12,14 @@ Intent Detection is a text classification task used in chat-bots and intelligent
 Banking77: https://huggingface.co/datasets/banking77
 
 ## BERT-FP 
-### Code directory
-AT82.05-NLU-Project/Experiment 2&3/Experiment 2 Infersent&BERT-FP/bert_fp_finetune.ipynb
+
 ### Description
 This model is created base on Fine-grained Post-training for Improving Retrieval-based Dialogue
 Systems paper.  
 For the pretrained model, it can download from https://github.com/hanjanghoon/BERT_FP.
 
 ## Infersent
-### Code directory
-AT82.05-NLU-Project/Experiment 2&3/Experiment 2 Infersent&BERT-FP/Infersent.ipynb
+
 ### Description
 Infersent is an universal sentence encoder from Meta AI. In this experiment, we use it as an sentences encoder for classification.  
 All the data will be encoded by Infersent, then we pass the dataset into classification layer.  
