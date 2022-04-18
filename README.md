@@ -32,3 +32,9 @@ Folder `Experiment 2&3` contains the following
 - `Experiment 2&3.ipynb`: IPYNB file to reproduce Experiment 2 (Except Infersent & BERT-FP Model) and Experiment 3
 - Folder `Experiment 2 Infersent&BERT-FP`: Contain the IPYNB files to reproduce Infersent & BERT-FP Model in Experiment 2 
 - Folder `Experiment 3 Visualiztion`: Contain csv result from `Experiment 2&3.ipynb` (Experiment 3, particularly) and IPYNB to reproduce the plot in the presentation
+
+## Model comparision accuracy
+### Banking77 5 shot accuracy
+[5shot result](./images/result5shot.PNG)
+### Banking77 10 shot accuracy
+[5shot result](./images/result10shot.PNG)
