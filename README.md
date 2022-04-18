@@ -28,6 +28,13 @@ All the required setup is based on https://github.com/facebookresearch/InferSent
 
 
 ## Code directory
+Folder `Experiment 1` contains the following
+- `final.ipynb` : IPYNB file to reproduce Experiment 1 (Calibration of few-shot "in-context" learning).
+The source code comes from https://github.com/tonyzhaozh/few-shot-learning.
+- `data_utils.py`: the file that helps loading the datasets in data folder.
+- final_results.xlsx : The excel file containing the accuracy from the experiment.
+- saved_results folder contains the results saved in pickle format.
+
 Folder `Experiment 2&3` contains the following
 - `Experiment 2&3.ipynb`: IPYNB file to reproduce Experiment 2 (Except Infersent & BERT-FP Model) and Experiment 3
 - Folder `Experiment 2 Infersent&BERT-FP`: Contain the IPYNB files to reproduce Infersent & BERT-FP Model in Experiment 2 
