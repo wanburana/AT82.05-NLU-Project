@@ -25,7 +25,12 @@ Infersent is an universal sentence encoder from Meta AI. In this experiment, we 
 All the data will be encoded by Infersent, then we pass the dataset into classification layer.  
 All the required setup is based on https://github.com/facebookresearch/InferSent.
 
+## DeCLUTR
 
+### Description
+DeCLUTR is an universal sentence encoder that was trained using self-supervised method which does not require labelled training data
+and it has achieve about the same performance as that of the one using supervised  method.
+more information can be found on https://github.com/JohnGiorgi/DeCLUTR 
 
 ## Code directory
 Folder `Experiment 1` contains the following
