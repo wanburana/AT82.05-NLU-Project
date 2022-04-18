@@ -35,6 +35,6 @@ Folder `Experiment 2&3` contains the following
 
 ## Model comparision accuracy
 ### Banking77 5 shot accuracy
-[5shot result](./images/result5shot.PNG)
+![5shot result](./images/result5shot.PNG)
 ### Banking77 10 shot accuracy
-[5shot result](./images/result10shot.PNG)
+![10shot result](./images/result10shot.PNG)
